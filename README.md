@@ -1,6 +1,6 @@
 # Simple command line argument or opt helper
 
-See main.c for example. Compile using `gcc main.c opt.c -o opt`. Then try:
+See `main.c` for example. Compile using `gcc main.c opt.c -o opt`. Then try:
 
 ```sh
 ~/code/opt$ ./opt -h
